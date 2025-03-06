@@ -1,0 +1,325 @@
+Colheita:
+        Morango de id 3 colhido
+        Contabilidade Parcial: Morango de id 3: 1000.000000 gramas
+        Morango de id 55 colhido
+        Contabilidade Parcial: Morango de id 55: 20.000000 gramas
+        Morango de id 54 colhido
+        Contabilidade Parcial: Morango de id 54: 20.000000 gramas
+        Morango de id 104 colhido
+        Contabilidade Parcial: Morango de id 104: 20.000000 gramas
+        Morango de id 154 colhido
+        Contabilidade Parcial: Morango de id 154: 20.000000 gramas
+        Morango de id 53 colhido
+        Contabilidade Parcial: Morango de id 53: 20.000000 gramas
+        Morango de id 4 colhido
+        Contabilidade Parcial: Morango de id 4: 20.000000 gramas
+        Morango de id 105 colhido
+        Contabilidade Parcial: Morango de id 105: 20.000000 gramas
+        Morango de id 155 colhido
+        Contabilidade Parcial: Morango de id 155: 20.000000 gramas
+        Morango de id 605 colhido
+        Contabilidade Parcial: Morango de id 605: 20.000000 gramas
+        Morango de id 604 colhido
+        Contabilidade Parcial: Morango de id 604: 20.000000 gramas
+        Morango de id 103 colhido
+        Contabilidade Parcial: Morango de id 103: 20.000000 gramas
+        Morango de id 5 colhido
+        Contabilidade Parcial: Morango de id 5: 20.000000 gramas
+        Morango de id 153 colhido
+        Contabilidade Parcial: Morango de id 153: 20.000000 gramas
+        Morango de id 603 colhido
+        Contabilidade Parcial: Morango de id 603: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 30.000000,50.000000 moveu 3 passos para a direção o
+        Morango de id 156 colhido
+        Contabilidade Parcial: Morango de id 156: 20.000000 gramas
+        Morango de id 607 colhido
+        Contabilidade Parcial: Morango de id 607: 20.000000 gramas
+        Morango de id 157 colhido
+        Contabilidade Parcial: Morango de id 157: 20.000000 gramas
+        Morango de id 606 colhido
+        Contabilidade Parcial: Morango de id 606: 20.000000 gramas
+        Morango de id 56 colhido
+        Contabilidade Parcial: Morango de id 56: 20.000000 gramas
+        Morango de id 57 colhido
+        Contabilidade Parcial: Morango de id 57: 20.000000 gramas
+        Morango de id 107 colhido
+        Contabilidade Parcial: Morango de id 107: 20.000000 gramas
+        Morango de id 106 colhido
+        Contabilidade Parcial: Morango de id 106: 20.000000 gramas
+        Morango de id 6 colhido
+        Contabilidade Parcial: Morango de id 6: 20.000000 gramas
+        Morango de id 7 colhido
+        Contabilidade Parcial: Morango de id 7: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 50.000000,50.000000 moveu 3 passos para a direção o
+        Morango de id 609 colhido
+        Contabilidade Parcial: Morango de id 609: 20.000000 gramas
+        Morango de id 159 colhido
+        Contabilidade Parcial: Morango de id 159: 20.000000 gramas
+        Morango de id 608 colhido
+        Contabilidade Parcial: Morango de id 608: 20.000000 gramas
+        Morango de id 158 colhido
+        Contabilidade Parcial: Morango de id 158: 20.000000 gramas
+        Morango de id 109 colhido
+        Contabilidade Parcial: Morango de id 109: 20.000000 gramas
+        Morango de id 108 colhido
+        Contabilidade Parcial: Morango de id 108: 20.000000 gramas
+        Morango de id 58 colhido
+        Contabilidade Parcial: Morango de id 58: 20.000000 gramas
+        Morango de id 59 colhido
+        Contabilidade Parcial: Morango de id 59: 20.000000 gramas
+        Morango de id 9 colhido
+        Contabilidade Parcial: Morango de id 9: 20.000000 gramas
+        Morango de id 8 colhido
+        Contabilidade Parcial: Morango de id 8: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 50.000000,50.000000 moveu 3 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 50.000000,50.000000 Posição final: 70.000000,100.000000
+Colheita:
+        Morango de id 711 colhido
+        Contabilidade Parcial: Morango de id 711: 20.000000 gramas
+        Morango de id 710 colhido
+        Contabilidade Parcial: Morango de id 710: 20.000000 gramas
+        Morango de id 660 colhido
+        Contabilidade Parcial: Morango de id 660: 20.000000 gramas
+        Morango de id 760 colhido
+        Contabilidade Parcial: Morango de id 760: 20.000000 gramas
+        Morango de id 761 colhido
+        Contabilidade Parcial: Morango de id 761: 20.000000 gramas
+        Morango de id 661 colhido
+        Contabilidade Parcial: Morango de id 661: 20.000000 gramas
+        Morango de id 1211 colhido
+        Contabilidade Parcial: Morango de id 1211: 20.000000 gramas
+        Morango de id 1251 colhido
+        Contabilidade Parcial: Morango de id 1251: 20.000000 gramas
+        Morango de id 1210 colhido
+        Contabilidade Parcial: Morango de id 1210: 20.000000 gramas
+        Morango de id 1250 colhido
+        Contabilidade Parcial: Morango de id 1250: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 90.000000,100.000000 moveu 3 passos para a direção o
+        Morango de id 713 colhido
+        Contabilidade Parcial: Morango de id 713: 20.000000 gramas
+        Morango de id 764 colhido
+        Contabilidade Parcial: Morango de id 764: 20.000000 gramas
+        Morango de id 714 colhido
+        Contabilidade Parcial: Morango de id 714: 20.000000 gramas
+        Morango de id 763 colhido
+        Contabilidade Parcial: Morango de id 763: 20.000000 gramas
+        Morango de id 662 colhido
+        Contabilidade Parcial: Morango de id 662: 20.000000 gramas
+        Morango de id 762 colhido
+        Contabilidade Parcial: Morango de id 762: 20.000000 gramas
+        Morango de id 712 colhido
+        Contabilidade Parcial: Morango de id 712: 20.000000 gramas
+        Morango de id 664 colhido
+        Contabilidade Parcial: Morango de id 664: 20.000000 gramas
+        Morango de id 663 colhido
+        Contabilidade Parcial: Morango de id 663: 20.000000 gramas
+        Morango de id 1212 colhido
+        Contabilidade Parcial: Morango de id 1212: 20.000000 gramas
+        Morango de id 1213 colhido
+        Contabilidade Parcial: Morango de id 1213: 20.000000 gramas
+        Morango de id 1214 colhido
+        Contabilidade Parcial: Morango de id 1214: 20.000000 gramas
+        Morango de id 1254 colhido
+        Contabilidade Parcial: Morango de id 1254: 20.000000 gramas
+        Morango de id 1253 colhido
+        Contabilidade Parcial: Morango de id 1253: 20.000000 gramas
+        Morango de id 1252 colhido
+        Contabilidade Parcial: Morango de id 1252: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 110.000000,100.000000 moveu 3 passos para a direção o
+        Morango de id 766 colhido
+        Contabilidade Parcial: Morango de id 766: 20.000000 gramas
+        Morango de id 765 colhido
+        Contabilidade Parcial: Morango de id 765: 20.000000 gramas
+        Morango de id 715 colhido
+        Contabilidade Parcial: Morango de id 715: 20.000000 gramas
+        Morango de id 665 colhido
+        Contabilidade Parcial: Morango de id 665: 20.000000 gramas
+        Morango de id 716 colhido
+        Contabilidade Parcial: Morango de id 716: 20.000000 gramas
+        Morango de id 666 colhido
+        Contabilidade Parcial: Morango de id 666: 20.000000 gramas
+        Morango de id 1216 colhido
+        Contabilidade Parcial: Morango de id 1216: 20.000000 gramas
+        Morango de id 1215 colhido
+        Contabilidade Parcial: Morango de id 1215: 20.000000 gramas
+        Morango de id 1255 colhido
+        Contabilidade Parcial: Morango de id 1255: 20.000000 gramas
+        Morango de id 1256 colhido
+        Contabilidade Parcial: Morango de id 1256: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 110.000000,100.000000 moveu 3 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 110.000000,100.000000 Posição final: 130.000000,150.000000
+Colheita:
+        Morango de id 1297 colhido
+        Contabilidade Parcial: Morango de id 1297: 20.000000 gramas
+        Morango de id 1298 colhido
+        Contabilidade Parcial: Morango de id 1298: 20.000000 gramas
+        Morango de id 1338 colhido
+        Contabilidade Parcial: Morango de id 1338: 20.000000 gramas
+        Morango de id 1337 colhido
+        Contabilidade Parcial: Morango de id 1337: 20.000000 gramas
+        Morango de id 1378 colhido
+        Contabilidade Parcial: Morango de id 1378: 20.000000 gramas
+        Morango de id 1377 colhido
+        Contabilidade Parcial: Morango de id 1377: 20.000000 gramas
+        Morango de id 1417 colhido
+        Contabilidade Parcial: Morango de id 1417: 20.000000 gramas
+        Morango de id 1418 colhido
+        Contabilidade Parcial: Morango de id 1418: 20.000000 gramas
+        Morango de id 1458 colhido
+        Contabilidade Parcial: Morango de id 1458: 20.000000 gramas
+        Morango de id 1498 colhido
+        Contabilidade Parcial: Morango de id 1498: 20.000000 gramas
+        Morango de id 1457 colhido
+        Contabilidade Parcial: Morango de id 1457: 20.000000 gramas
+        Morango de id 1497 colhido
+        Contabilidade Parcial: Morango de id 1497: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 150.000000,150.000000 moveu 3 passos para a direção o
+        Morango de id 1300 colhido
+        Contabilidade Parcial: Morango de id 1300: 20.000000 gramas
+        Morango de id 1340 colhido
+        Contabilidade Parcial: Morango de id 1340: 20.000000 gramas
+        Morango de id 1299 colhido
+        Contabilidade Parcial: Morango de id 1299: 20.000000 gramas
+        Morango de id 1339 colhido
+        Contabilidade Parcial: Morango de id 1339: 20.000000 gramas
+        Morango de id 1379 colhido
+        Contabilidade Parcial: Morango de id 1379: 20.000000 gramas
+        Morango de id 1380 colhido
+        Contabilidade Parcial: Morango de id 1380: 20.000000 gramas
+        Morango de id 1419 colhido
+        Contabilidade Parcial: Morango de id 1419: 20.000000 gramas
+        Morango de id 1420 colhido
+        Contabilidade Parcial: Morango de id 1420: 20.000000 gramas
+        Morango de id 1459 colhido
+        Contabilidade Parcial: Morango de id 1459: 20.000000 gramas
+        Morango de id 1460 colhido
+        Contabilidade Parcial: Morango de id 1460: 20.000000 gramas
+        Morango de id 1500 colhido
+        Contabilidade Parcial: Morango de id 1500: 20.000000 gramas
+        Morango de id 1499 colhido
+        Contabilidade Parcial: Morango de id 1499: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 170.000000,150.000000 moveu 3 passos para a direção o
+        Morango de id 1301 colhido
+        Contabilidade Parcial: Morango de id 1301: 20.000000 gramas
+        Morango de id 1302 colhido
+        Contabilidade Parcial: Morango de id 1302: 20.000000 gramas
+        Morango de id 1303 colhido
+        Contabilidade Parcial: Morango de id 1303: 20.000000 gramas
+        Morango de id 1343 colhido
+        Contabilidade Parcial: Morango de id 1343: 20.000000 gramas
+        Morango de id 1342 colhido
+        Contabilidade Parcial: Morango de id 1342: 20.000000 gramas
+        Morango de id 1382 colhido
+        Contabilidade Parcial: Morango de id 1382: 20.000000 gramas
+        Morango de id 1341 colhido
+        Contabilidade Parcial: Morango de id 1341: 20.000000 gramas
+        Morango de id 1383 colhido
+        Contabilidade Parcial: Morango de id 1383: 20.000000 gramas
+        Morango de id 1381 colhido
+        Contabilidade Parcial: Morango de id 1381: 20.000000 gramas
+        Morango de id 1423 colhido
+        Contabilidade Parcial: Morango de id 1423: 20.000000 gramas
+        Morango de id 1421 colhido
+        Contabilidade Parcial: Morango de id 1421: 20.000000 gramas
+        Morango de id 1422 colhido
+        Contabilidade Parcial: Morango de id 1422: 20.000000 gramas
+        Morango de id 1463 colhido
+        Contabilidade Parcial: Morango de id 1463: 20.000000 gramas
+        Morango de id 1462 colhido
+        Contabilidade Parcial: Morango de id 1462: 20.000000 gramas
+        Morango de id 1502 colhido
+        Contabilidade Parcial: Morango de id 1502: 20.000000 gramas
+        Morango de id 1503 colhido
+        Contabilidade Parcial: Morango de id 1503: 20.000000 gramas
+        Morango de id 1461 colhido
+        Contabilidade Parcial: Morango de id 1461: 20.000000 gramas
+        Morango de id 1501 colhido
+        Contabilidade Parcial: Morango de id 1501: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 170.000000,150.000000 moveu 3 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 170.000000,150.000000 Posição final: 190.000000,200.000000
+Colheita:
+        Morango de id 1544 colhido
+        Contabilidade Parcial: Morango de id 1544: 20.000000 gramas
+        Morango de id 1545 colhido
+        Contabilidade Parcial: Morango de id 1545: 20.000000 gramas
+        Morango de id 1543 colhido
+        Contabilidade Parcial: Morango de id 1543: 20.000000 gramas
+        Abóbora de id 2242 colhida
+        Contabilidade Parcial: Abobora de id 2242: 2000.000000 gramas
+        Abóbora de id 2142 colhida
+        Contabilidade Parcial: Abobora de id 2142: 2000.000000 gramas
+        Abóbora de id 2192 colhida
+        Contabilidade Parcial: Abobora de id 2192: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 210.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1547 colhido
+        Contabilidade Parcial: Morango de id 1547: 20.000000 gramas
+        Morango de id 1546 colhido
+        Contabilidade Parcial: Morango de id 1546: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 230.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1548 colhido
+        Contabilidade Parcial: Morango de id 1548: 20.000000 gramas
+        Morango de id 1549 colhido
+        Contabilidade Parcial: Morango de id 1549: 20.000000 gramas
+        Abóbora de id 2245 colhida
+        Contabilidade Parcial: Abobora de id 2245: 2000.000000 gramas
+        Abóbora de id 2145 colhida
+        Contabilidade Parcial: Abobora de id 2145: 2000.000000 gramas
+        Abóbora de id 2195 colhida
+        Contabilidade Parcial: Abobora de id 2195: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 250.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1551 colhido
+        Contabilidade Parcial: Morango de id 1551: 20.000000 gramas
+        Morango de id 1550 colhido
+        Contabilidade Parcial: Morango de id 1550: 20.000000 gramas
+        Abóbora de id 2247 colhida
+        Contabilidade Parcial: Abobora de id 2247: 2000.000000 gramas
+        Abóbora de id 2147 colhida
+        Contabilidade Parcial: Abobora de id 2147: 2000.000000 gramas
+        Abóbora de id 2197 colhida
+        Contabilidade Parcial: Abobora de id 2197: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 270.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1554 colhido
+        Contabilidade Parcial: Morango de id 1554: 20.000000 gramas
+        Morango de id 1552 colhido
+        Contabilidade Parcial: Morango de id 1552: 20.000000 gramas
+        Morango de id 1553 colhido
+        Contabilidade Parcial: Morango de id 1553: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 290.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1556 colhido
+        Contabilidade Parcial: Morango de id 1556: 20.000000 gramas
+        Morango de id 1555 colhido
+        Contabilidade Parcial: Morango de id 1555: 20.000000 gramas
+        Abóbora de id 2250 colhida
+        Contabilidade Parcial: Abobora de id 2250: 2000.000000 gramas
+        Abóbora de id 2150 colhida
+        Contabilidade Parcial: Abobora de id 2150: 2000.000000 gramas
+        Abóbora de id 2200 colhida
+        Contabilidade Parcial: Abobora de id 2200: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 310.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1558 colhido
+        Contabilidade Parcial: Morango de id 1558: 20.000000 gramas
+        Morango de id 1557 colhido
+        Contabilidade Parcial: Morango de id 1557: 20.000000 gramas
+        Abóbora de id 2252 colhida
+        Contabilidade Parcial: Abobora de id 2252: 2000.000000 gramas
+        Abóbora de id 2152 colhida
+        Contabilidade Parcial: Abobora de id 2152: 2000.000000 gramas
+        Abóbora de id 2202 colhida
+        Contabilidade Parcial: Abobora de id 2202: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 330.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1560 colhido
+        Contabilidade Parcial: Morango de id 1560: 20.000000 gramas
+        Morango de id 1559 colhido
+        Contabilidade Parcial: Morango de id 1559: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 350.000000,200.000000 moveu 9 passos para a direção o
+        Morango de id 1562 colhido
+        Contabilidade Parcial: Morango de id 1562: 20.000000 gramas
+        Morango de id 1561 colhido
+        Contabilidade Parcial: Morango de id 1561: 20.000000 gramas
+        Abóbora de id 2255 colhida
+        Contabilidade Parcial: Abobora de id 2255: 2000.000000 gramas
+        Abóbora de id 2155 colhida
+        Contabilidade Parcial: Abobora de id 2155: 2000.000000 gramas
+        Abóbora de id 2205 colhida
+        Contabilidade Parcial: Abobora de id 2205: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 350.000000,200.000000 moveu 9 passos para a direção o

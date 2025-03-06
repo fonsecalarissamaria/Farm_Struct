@@ -1,0 +1,18 @@
+##
+## ABRINDO OS ZIPS SUBMETIDOS
+##
+
+
+> extraindo zip: larimsf.zip
+Traceback (most recent call last):
+  File "et.py", line 432, in <module>
+    executa()
+  File "et.py", line 425, in executa
+    processaTodosZip(zip_d,teste_d,home_dir,arqgeo,alunosd,extraPars,ecpm,comVias, comBd,subdirs,execDot,extraExecPars)
+  File "et.py", line 328, in processaTodosZip
+    abreZips(arqs,zip_d,home_d,alunosd,subdirs)
+  File "et.py", line 303, in abreZips
+    dir_aluno = abreZip(dir_alunos,zip_dir,a,subdirs)
+  File "et.py", line 225, in abreZip
+    os.mkdir(dir_aluno)
+FileExistsError: [Errno 17] File exists: '/home/larissa/workspace/starting-c/script2/alunos/larimsf'

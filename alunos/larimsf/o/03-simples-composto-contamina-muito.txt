@@ -1,0 +1,464 @@
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.100000
+        Morango de id 713 atingido por praga. Grau de dano: 0.100000
+        Morango de id 764 atingido por praga. Grau de dano: 0.100000
+        Morango de id 763 atingido por praga. Grau de dano: 0.100000
+        Morango de id 761 atingido por praga. Grau de dano: 0.100000
+        Morango de id 755 atingido por praga. Grau de dano: 0.100000
+        Morango de id 762 atingido por praga. Grau de dano: 0.100000
+        Morango de id 760 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.100000
+        Morango de id 771 atingido por praga. Grau de dano: 0.100000
+        Morango de id 766 atingido por praga. Grau de dano: 0.100000
+        Morango de id 723 atingido por praga. Grau de dano: 0.100000
+        Morango de id 774 atingido por praga. Grau de dano: 0.100000
+        Morango de id 773 atingido por praga. Grau de dano: 0.100000
+        Morango de id 770 atingido por praga. Grau de dano: 0.100000
+        Morango de id 775 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.100000
+        Morango de id 786 atingido por praga. Grau de dano: 0.100000
+        Morango de id 783 atingido por praga. Grau de dano: 0.100000
+        Morango de id 781 atingido por praga. Grau de dano: 0.100000
+        Morango de id 784 atingido por praga. Grau de dano: 0.100000
+        Morango de id 782 atingido por praga. Grau de dano: 0.100000
+        Morango de id 780 atingido por praga. Grau de dano: 0.100000
+        Morango de id 785 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.100000
+        Morango de id 792 atingido por praga. Grau de dano: 0.100000
+        Morango de id 791 atingido por praga. Grau de dano: 0.100000
+        Morango de id 793 atingido por praga. Grau de dano: 0.100000
+        Morango de id 794 atingido por praga. Grau de dano: 0.100000
+        Morango de id 795 atingido por praga. Grau de dano: 0.100000
+        Morango de id 796 atingido por praga. Grau de dano: 0.100000
+        Morango de id 743 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.100000
+        Morango de id 801 atingido por praga. Grau de dano: 0.100000
+        Morango de id 802 atingido por praga. Grau de dano: 0.100000
+        Morango de id 957 atingido por praga. Grau de dano: 0.100000
+        Morango de id 956 atingido por praga. Grau de dano: 0.100000
+        Morango de id 958 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.100000
+        Morango de id 960 atingido por praga. Grau de dano: 0.100000
+        Morango de id 962 atingido por praga. Grau de dano: 0.100000
+        Morango de id 961 atingido por praga. Grau de dano: 0.100000
+        Morango de id 909 atingido por praga. Grau de dano: 0.100000
+        Morango de id 967 atingido por praga. Grau de dano: 0.100000
+        Morango de id 966 atingido por praga. Grau de dano: 0.100000
+        Morango de id 968 atingido por praga. Grau de dano: 0.100000
+        Morango de id 969 atingido por praga. Grau de dano: 0.100000
+        Morango de id 919 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.200000
+        Morango de id 713 atingido por praga. Grau de dano: 0.200000
+        Morango de id 764 atingido por praga. Grau de dano: 0.200000
+        Morango de id 763 atingido por praga. Grau de dano: 0.200000
+        Morango de id 761 atingido por praga. Grau de dano: 0.200000
+        Morango de id 755 atingido por praga. Grau de dano: 0.200000
+        Morango de id 762 atingido por praga. Grau de dano: 0.200000
+        Morango de id 760 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.200000
+        Morango de id 771 atingido por praga. Grau de dano: 0.200000
+        Morango de id 766 atingido por praga. Grau de dano: 0.200000
+        Morango de id 723 atingido por praga. Grau de dano: 0.200000
+        Morango de id 774 atingido por praga. Grau de dano: 0.200000
+        Morango de id 773 atingido por praga. Grau de dano: 0.200000
+        Morango de id 770 atingido por praga. Grau de dano: 0.200000
+        Morango de id 775 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.200000
+        Morango de id 786 atingido por praga. Grau de dano: 0.200000
+        Morango de id 783 atingido por praga. Grau de dano: 0.200000
+        Morango de id 781 atingido por praga. Grau de dano: 0.200000
+        Morango de id 784 atingido por praga. Grau de dano: 0.200000
+        Morango de id 782 atingido por praga. Grau de dano: 0.200000
+        Morango de id 780 atingido por praga. Grau de dano: 0.200000
+        Morango de id 785 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.200000
+        Morango de id 792 atingido por praga. Grau de dano: 0.200000
+        Morango de id 791 atingido por praga. Grau de dano: 0.200000
+        Morango de id 793 atingido por praga. Grau de dano: 0.200000
+        Morango de id 794 atingido por praga. Grau de dano: 0.200000
+        Morango de id 795 atingido por praga. Grau de dano: 0.200000
+        Morango de id 796 atingido por praga. Grau de dano: 0.200000
+        Morango de id 743 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.200000
+        Morango de id 801 atingido por praga. Grau de dano: 0.200000
+        Morango de id 802 atingido por praga. Grau de dano: 0.200000
+        Morango de id 957 atingido por praga. Grau de dano: 0.200000
+        Morango de id 956 atingido por praga. Grau de dano: 0.200000
+        Morango de id 958 atingido por praga. Grau de dano: 0.200000
+        Morango de id 959 atingido por praga. Grau de dano: 0.100000
+        Morango de id 909 atingido por praga. Grau de dano: 0.100000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.200000
+        Morango de id 960 atingido por praga. Grau de dano: 0.200000
+        Morango de id 962 atingido por praga. Grau de dano: 0.200000
+        Morango de id 961 atingido por praga. Grau de dano: 0.200000
+        Morango de id 909 atingido por praga. Grau de dano: 0.200000
+        Morango de id 967 atingido por praga. Grau de dano: 0.200000
+        Morango de id 966 atingido por praga. Grau de dano: 0.200000
+        Morango de id 968 atingido por praga. Grau de dano: 0.200000
+        Morango de id 969 atingido por praga. Grau de dano: 0.200000
+        Morango de id 919 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.300000
+        Morango de id 713 atingido por praga. Grau de dano: 0.300000
+        Morango de id 764 atingido por praga. Grau de dano: 0.300000
+        Morango de id 763 atingido por praga. Grau de dano: 0.300000
+        Morango de id 761 atingido por praga. Grau de dano: 0.300000
+        Morango de id 755 atingido por praga. Grau de dano: 0.300000
+        Morango de id 762 atingido por praga. Grau de dano: 0.300000
+        Morango de id 760 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.300000
+        Morango de id 771 atingido por praga. Grau de dano: 0.300000
+        Morango de id 766 atingido por praga. Grau de dano: 0.300000
+        Morango de id 723 atingido por praga. Grau de dano: 0.300000
+        Morango de id 774 atingido por praga. Grau de dano: 0.300000
+        Morango de id 773 atingido por praga. Grau de dano: 0.300000
+        Morango de id 770 atingido por praga. Grau de dano: 0.300000
+        Morango de id 775 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.300000
+        Morango de id 786 atingido por praga. Grau de dano: 0.300000
+        Morango de id 783 atingido por praga. Grau de dano: 0.300000
+        Morango de id 781 atingido por praga. Grau de dano: 0.300000
+        Morango de id 784 atingido por praga. Grau de dano: 0.300000
+        Morango de id 782 atingido por praga. Grau de dano: 0.300000
+        Morango de id 780 atingido por praga. Grau de dano: 0.300000
+        Morango de id 785 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.300000
+        Morango de id 792 atingido por praga. Grau de dano: 0.300000
+        Morango de id 791 atingido por praga. Grau de dano: 0.300000
+        Morango de id 793 atingido por praga. Grau de dano: 0.300000
+        Morango de id 794 atingido por praga. Grau de dano: 0.300000
+        Morango de id 795 atingido por praga. Grau de dano: 0.300000
+        Morango de id 796 atingido por praga. Grau de dano: 0.300000
+        Morango de id 743 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.300000
+        Morango de id 801 atingido por praga. Grau de dano: 0.300000
+        Morango de id 802 atingido por praga. Grau de dano: 0.300000
+        Morango de id 957 atingido por praga. Grau de dano: 0.300000
+        Morango de id 956 atingido por praga. Grau de dano: 0.300000
+        Morango de id 958 atingido por praga. Grau de dano: 0.300000
+        Morango de id 959 atingido por praga. Grau de dano: 0.200000
+        Morango de id 909 atingido por praga. Grau de dano: 0.200000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.300000
+        Morango de id 960 atingido por praga. Grau de dano: 0.300000
+        Morango de id 962 atingido por praga. Grau de dano: 0.300000
+        Morango de id 961 atingido por praga. Grau de dano: 0.300000
+        Morango de id 909 atingido por praga. Grau de dano: 0.300000
+        Morango de id 967 atingido por praga. Grau de dano: 0.300000
+        Morango de id 966 atingido por praga. Grau de dano: 0.300000
+        Morango de id 968 atingido por praga. Grau de dano: 0.300000
+        Morango de id 969 atingido por praga. Grau de dano: 0.300000
+        Morango de id 919 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.400000
+        Morango de id 713 atingido por praga. Grau de dano: 0.400000
+        Morango de id 764 atingido por praga. Grau de dano: 0.400000
+        Morango de id 763 atingido por praga. Grau de dano: 0.400000
+        Morango de id 761 atingido por praga. Grau de dano: 0.400000
+        Morango de id 755 atingido por praga. Grau de dano: 0.400000
+        Morango de id 762 atingido por praga. Grau de dano: 0.400000
+        Morango de id 760 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.400000
+        Morango de id 771 atingido por praga. Grau de dano: 0.400000
+        Morango de id 766 atingido por praga. Grau de dano: 0.400000
+        Morango de id 723 atingido por praga. Grau de dano: 0.400000
+        Morango de id 774 atingido por praga. Grau de dano: 0.400000
+        Morango de id 773 atingido por praga. Grau de dano: 0.400000
+        Morango de id 770 atingido por praga. Grau de dano: 0.400000
+        Morango de id 775 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.400000
+        Morango de id 786 atingido por praga. Grau de dano: 0.400000
+        Morango de id 783 atingido por praga. Grau de dano: 0.400000
+        Morango de id 781 atingido por praga. Grau de dano: 0.400000
+        Morango de id 784 atingido por praga. Grau de dano: 0.400000
+        Morango de id 782 atingido por praga. Grau de dano: 0.400000
+        Morango de id 780 atingido por praga. Grau de dano: 0.400000
+        Morango de id 785 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.400000
+        Morango de id 792 atingido por praga. Grau de dano: 0.400000
+        Morango de id 791 atingido por praga. Grau de dano: 0.400000
+        Morango de id 793 atingido por praga. Grau de dano: 0.400000
+        Morango de id 794 atingido por praga. Grau de dano: 0.400000
+        Morango de id 795 atingido por praga. Grau de dano: 0.400000
+        Morango de id 796 atingido por praga. Grau de dano: 0.400000
+        Morango de id 743 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.400000
+        Morango de id 801 atingido por praga. Grau de dano: 0.400000
+        Morango de id 802 atingido por praga. Grau de dano: 0.400000
+        Morango de id 957 atingido por praga. Grau de dano: 0.400000
+        Morango de id 956 atingido por praga. Grau de dano: 0.400000
+        Morango de id 958 atingido por praga. Grau de dano: 0.400000
+        Morango de id 959 atingido por praga. Grau de dano: 0.300000
+        Morango de id 909 atingido por praga. Grau de dano: 0.300000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.400000
+        Morango de id 960 atingido por praga. Grau de dano: 0.400000
+        Morango de id 962 atingido por praga. Grau de dano: 0.400000
+        Morango de id 961 atingido por praga. Grau de dano: 0.400000
+        Morango de id 909 atingido por praga. Grau de dano: 0.400000
+        Morango de id 967 atingido por praga. Grau de dano: 0.400000
+        Morango de id 966 atingido por praga. Grau de dano: 0.400000
+        Morango de id 968 atingido por praga. Grau de dano: 0.400000
+        Morango de id 969 atingido por praga. Grau de dano: 0.400000
+        Morango de id 919 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.500000
+        Morango de id 713 atingido por praga. Grau de dano: 0.500000
+        Morango de id 764 atingido por praga. Grau de dano: 0.500000
+        Morango de id 763 atingido por praga. Grau de dano: 0.500000
+        Morango de id 761 atingido por praga. Grau de dano: 0.500000
+        Morango de id 755 atingido por praga. Grau de dano: 0.500000
+        Morango de id 762 atingido por praga. Grau de dano: 0.500000
+        Morango de id 760 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.500000
+        Morango de id 771 atingido por praga. Grau de dano: 0.500000
+        Morango de id 766 atingido por praga. Grau de dano: 0.500000
+        Morango de id 723 atingido por praga. Grau de dano: 0.500000
+        Morango de id 774 atingido por praga. Grau de dano: 0.500000
+        Morango de id 773 atingido por praga. Grau de dano: 0.500000
+        Morango de id 770 atingido por praga. Grau de dano: 0.500000
+        Morango de id 775 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.500000
+        Morango de id 786 atingido por praga. Grau de dano: 0.500000
+        Morango de id 783 atingido por praga. Grau de dano: 0.500000
+        Morango de id 781 atingido por praga. Grau de dano: 0.500000
+        Morango de id 784 atingido por praga. Grau de dano: 0.500000
+        Morango de id 782 atingido por praga. Grau de dano: 0.500000
+        Morango de id 780 atingido por praga. Grau de dano: 0.500000
+        Morango de id 785 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.500000
+        Morango de id 792 atingido por praga. Grau de dano: 0.500000
+        Morango de id 791 atingido por praga. Grau de dano: 0.500000
+        Morango de id 793 atingido por praga. Grau de dano: 0.500000
+        Morango de id 794 atingido por praga. Grau de dano: 0.500000
+        Morango de id 795 atingido por praga. Grau de dano: 0.500000
+        Morango de id 796 atingido por praga. Grau de dano: 0.500000
+        Morango de id 743 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.500000
+        Morango de id 801 atingido por praga. Grau de dano: 0.500000
+        Morango de id 802 atingido por praga. Grau de dano: 0.500000
+        Morango de id 957 atingido por praga. Grau de dano: 0.500000
+        Morango de id 956 atingido por praga. Grau de dano: 0.500000
+        Morango de id 958 atingido por praga. Grau de dano: 0.500000
+        Morango de id 959 atingido por praga. Grau de dano: 0.400000
+        Morango de id 909 atingido por praga. Grau de dano: 0.400000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.500000
+        Morango de id 960 atingido por praga. Grau de dano: 0.500000
+        Morango de id 962 atingido por praga. Grau de dano: 0.500000
+        Morango de id 961 atingido por praga. Grau de dano: 0.500000
+        Morango de id 909 atingido por praga. Grau de dano: 0.500000
+        Morango de id 967 atingido por praga. Grau de dano: 0.500000
+        Morango de id 966 atingido por praga. Grau de dano: 0.500000
+        Morango de id 968 atingido por praga. Grau de dano: 0.500000
+        Morango de id 969 atingido por praga. Grau de dano: 0.500000
+        Morango de id 919 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 756 atingido por praga. Grau de dano: 0.600000
+        Morango de id 713 atingido por praga. Grau de dano: 0.600000
+        Morango de id 764 atingido por praga. Grau de dano: 0.600000
+        Morango de id 763 atingido por praga. Grau de dano: 0.600000
+        Morango de id 761 atingido por praga. Grau de dano: 0.600000
+        Morango de id 755 atingido por praga. Grau de dano: 0.600000
+        Morango de id 762 atingido por praga. Grau de dano: 0.600000
+        Morango de id 760 atingido por praga. Grau de dano: 0.600000
+Ataque de pragas:
+        Morango de id 772 atingido por praga. Grau de dano: 0.600000
+        Morango de id 771 atingido por praga. Grau de dano: 0.600000
+        Morango de id 766 atingido por praga. Grau de dano: 0.600000
+        Morango de id 723 atingido por praga. Grau de dano: 0.600000
+        Morango de id 774 atingido por praga. Grau de dano: 0.600000
+        Morango de id 773 atingido por praga. Grau de dano: 0.600000
+        Morango de id 770 atingido por praga. Grau de dano: 0.600000
+        Morango de id 775 atingido por praga. Grau de dano: 0.600000
+Ataque de pragas:
+        Morango de id 733 atingido por praga. Grau de dano: 0.600000
+        Morango de id 786 atingido por praga. Grau de dano: 0.600000
+        Morango de id 783 atingido por praga. Grau de dano: 0.600000
+        Morango de id 781 atingido por praga. Grau de dano: 0.600000
+        Morango de id 784 atingido por praga. Grau de dano: 0.600000
+        Morango de id 782 atingido por praga. Grau de dano: 0.600000
+        Morango de id 780 atingido por praga. Grau de dano: 0.600000
+        Morango de id 785 atingido por praga. Grau de dano: 0.600000
+Ataque de pragas:
+        Morango de id 790 atingido por praga. Grau de dano: 0.600000
+        Morango de id 792 atingido por praga. Grau de dano: 0.600000
+        Morango de id 791 atingido por praga. Grau de dano: 0.600000
+        Morango de id 793 atingido por praga. Grau de dano: 0.600000
+        Morango de id 794 atingido por praga. Grau de dano: 0.600000
+        Morango de id 795 atingido por praga. Grau de dano: 0.600000
+        Morango de id 796 atingido por praga. Grau de dano: 0.600000
+        Morango de id 743 atingido por praga. Grau de dano: 0.600000
+Ataque de pragas:
+        Morango de id 800 atingido por praga. Grau de dano: 0.600000
+        Morango de id 801 atingido por praga. Grau de dano: 0.600000
+        Morango de id 802 atingido por praga. Grau de dano: 0.600000
+        Morango de id 957 atingido por praga. Grau de dano: 0.600000
+        Morango de id 956 atingido por praga. Grau de dano: 0.600000
+        Morango de id 958 atingido por praga. Grau de dano: 0.600000
+        Morango de id 959 atingido por praga. Grau de dano: 0.500000
+        Morango de id 909 atingido por praga. Grau de dano: 0.500000
+Ataque de pragas:
+        Morango de id 959 atingido por praga. Grau de dano: 0.600000
+        Morango de id 960 atingido por praga. Grau de dano: 0.600000
+        Morango de id 962 atingido por praga. Grau de dano: 0.600000
+        Morango de id 961 atingido por praga. Grau de dano: 0.600000
+        Morango de id 909 atingido por praga. Grau de dano: 0.600000
+        Morango de id 967 atingido por praga. Grau de dano: 0.600000
+        Morango de id 966 atingido por praga. Grau de dano: 0.600000
+        Morango de id 968 atingido por praga. Grau de dano: 0.600000
+        Morango de id 969 atingido por praga. Grau de dano: 0.600000
+        Morango de id 919 atingido por praga. Grau de dano: 0.600000
+Colheita:
+        Morango de id 3 colhido
+        Contabilidade Parcial: Morango de id 3: 1000.000000 gramas
+        Morango de id 55 colhido
+        Contabilidade Parcial: Morango de id 55: 20.000000 gramas
+        Morango de id 54 colhido
+        Contabilidade Parcial: Morango de id 54: 20.000000 gramas
+        Morango de id 104 colhido
+        Contabilidade Parcial: Morango de id 104: 20.000000 gramas
+        Morango de id 154 colhido
+        Contabilidade Parcial: Morango de id 154: 20.000000 gramas
+        Morango de id 53 colhido
+        Contabilidade Parcial: Morango de id 53: 20.000000 gramas
+        Morango de id 4 colhido
+        Contabilidade Parcial: Morango de id 4: 20.000000 gramas
+        Morango de id 105 colhido
+        Contabilidade Parcial: Morango de id 105: 20.000000 gramas
+        Morango de id 155 colhido
+        Contabilidade Parcial: Morango de id 155: 20.000000 gramas
+        Morango de id 605 colhido
+        Contabilidade Parcial: Morango de id 605: 20.000000 gramas
+        Morango de id 604 colhido
+        Contabilidade Parcial: Morango de id 604: 20.000000 gramas
+        Morango de id 103 colhido
+        Contabilidade Parcial: Morango de id 103: 20.000000 gramas
+        Morango de id 5 colhido
+        Contabilidade Parcial: Morango de id 5: 20.000000 gramas
+        Morango de id 153 colhido
+        Contabilidade Parcial: Morango de id 153: 20.000000 gramas
+        Morango de id 603 colhido
+        Contabilidade Parcial: Morango de id 603: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 30.000000,50.000000 moveu 5 passos para a direção o
+        Morango de id 156 colhido
+        Contabilidade Parcial: Morango de id 156: 20.000000 gramas
+        Morango de id 607 colhido
+        Contabilidade Parcial: Morango de id 607: 20.000000 gramas
+        Morango de id 157 colhido
+        Contabilidade Parcial: Morango de id 157: 20.000000 gramas
+        Morango de id 606 colhido
+        Contabilidade Parcial: Morango de id 606: 20.000000 gramas
+        Morango de id 56 colhido
+        Contabilidade Parcial: Morango de id 56: 20.000000 gramas
+        Morango de id 57 colhido
+        Contabilidade Parcial: Morango de id 57: 20.000000 gramas
+        Morango de id 107 colhido
+        Contabilidade Parcial: Morango de id 107: 20.000000 gramas
+        Morango de id 106 colhido
+        Contabilidade Parcial: Morango de id 106: 20.000000 gramas
+        Morango de id 6 colhido
+        Contabilidade Parcial: Morango de id 6: 20.000000 gramas
+        Morango de id 7 colhido
+        Contabilidade Parcial: Morango de id 7: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 50.000000,50.000000 moveu 5 passos para a direção o
+        Morango de id 609 colhido
+        Contabilidade Parcial: Morango de id 609: 20.000000 gramas
+        Morango de id 159 colhido
+        Contabilidade Parcial: Morango de id 159: 20.000000 gramas
+        Morango de id 608 colhido
+        Contabilidade Parcial: Morango de id 608: 20.000000 gramas
+        Morango de id 158 colhido
+        Contabilidade Parcial: Morango de id 158: 20.000000 gramas
+        Morango de id 109 colhido
+        Contabilidade Parcial: Morango de id 109: 20.000000 gramas
+        Morango de id 108 colhido
+        Contabilidade Parcial: Morango de id 108: 20.000000 gramas
+        Morango de id 58 colhido
+        Contabilidade Parcial: Morango de id 58: 20.000000 gramas
+        Morango de id 59 colhido
+        Contabilidade Parcial: Morango de id 59: 20.000000 gramas
+        Morango de id 9 colhido
+        Contabilidade Parcial: Morango de id 9: 20.000000 gramas
+        Morango de id 8 colhido
+        Contabilidade Parcial: Morango de id 8: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 70.000000,50.000000 moveu 5 passos para a direção o
+        Morango de id 160 colhido
+        Contabilidade Parcial: Morango de id 160: 20.000000 gramas
+        Morango de id 610 colhido
+        Contabilidade Parcial: Morango de id 610: 20.000000 gramas
+        Morango de id 611 colhido
+        Contabilidade Parcial: Morango de id 611: 20.000000 gramas
+        Morango de id 110 colhido
+        Contabilidade Parcial: Morango de id 110: 20.000000 gramas
+        Morango de id 111 colhido
+        Contabilidade Parcial: Morango de id 111: 20.000000 gramas
+        Morango de id 60 colhido
+        Contabilidade Parcial: Morango de id 60: 20.000000 gramas
+        Morango de id 161 colhido
+        Contabilidade Parcial: Morango de id 161: 20.000000 gramas
+        Morango de id 10 colhido
+        Contabilidade Parcial: Morango de id 10: 20.000000 gramas
+        Morango de id 11 colhido
+        Contabilidade Parcial: Morango de id 11: 20.000000 gramas
+        Morango de id 61 colhido
+        Contabilidade Parcial: Morango de id 61: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 90.000000,50.000000 moveu 5 passos para a direção o
+        Morango de id 613 colhido
+        Contabilidade Parcial: Morango de id 613: 20.000000 gramas
+        Morango de id 612 colhido
+        Contabilidade Parcial: Morango de id 612: 20.000000 gramas
+        Morango de id 614 colhido
+        Contabilidade Parcial: Morango de id 614: 20.000000 gramas
+        Morango de id 164 colhido
+        Contabilidade Parcial: Morango de id 164: 20.000000 gramas
+        Morango de id 163 colhido
+        Contabilidade Parcial: Morango de id 163: 20.000000 gramas
+        Morango de id 112 colhido
+        Contabilidade Parcial: Morango de id 112: 20.000000 gramas
+        Morango de id 113 colhido
+        Contabilidade Parcial: Morango de id 113: 20.000000 gramas
+        Morango de id 114 colhido
+        Contabilidade Parcial: Morango de id 114: 20.000000 gramas
+        Morango de id 162 colhido
+        Contabilidade Parcial: Morango de id 162: 20.000000 gramas
+        Morango de id 64 colhido
+        Contabilidade Parcial: Morango de id 64: 20.000000 gramas
+        Morango de id 63 colhido
+        Contabilidade Parcial: Morango de id 63: 20.000000 gramas
+        Morango de id 12 colhido
+        Contabilidade Parcial: Morango de id 12: 20.000000 gramas
+        Morango de id 13 colhido
+        Contabilidade Parcial: Morango de id 13: 20.000000 gramas
+        Morango de id 14 colhido
+        Contabilidade Parcial: Morango de id 14: 20.000000 gramas
+        Morango de id 62 colhido
+        Contabilidade Parcial: Morango de id 62: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 90.000000,50.000000 moveu 5 passos para a direção o
+Dados de todas colheitadeiras:
+        Colheitadeira de id 1:
+                Posição: 90.000000,50.000000
+                Cor de preenchimento: none

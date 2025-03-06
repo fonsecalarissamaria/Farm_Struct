@@ -1,0 +1,175 @@
+====> TESTANDO: larimsf
+
+===== EXECUTANDO TESTES: 
+    > dir_tst:/home/larissa-fonseca/workspace/starting-c/script2/t
+    > dir saida: /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o
+    > prog: /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted
+    > arqgeo: 03-simples-composto.geo
+    > ecpm: False
+    > comVias: False
+    > comBd: False
+    > extraExecPars: -ns 32 -fd 75
+   > removendo arquivos  pre-existentes: /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o  *.txt 
+
+   > removendo arquivos  pre-existentes: /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o  *.svg 
+
+   > arq =  /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75 
+
+.[2023-07-11T22:14:49.265023].
+Sufixo Completo: 03-simples-composto
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+ponteiro para qry NULO
+   > nomearq: 03-simples-composto 
+
+   dirqry: /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto  qry_ptrn: /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/*.qry  #qrys: 13 
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/aduba-colhe.qry
+
+.[2023-07-11T22:14:49.308897].
+Sufixo Completo: 03-simples-composto-aduba-colhe
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/aduba-colhe.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/colhe.qry
+
+.[2023-07-11T22:14:49.998697].
+Sufixo Completo: 03-simples-composto-colhe
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/colhe.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/contamina-defensivo-colhe.qry
+
+.[2023-07-11T22:14:50.679278].
+Sufixo Completo: 03-simples-composto-contamina-defensivo-colhe
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/contamina-defensivo-colhe.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/contamina-muito.qry
+
+.[2023-07-11T22:14:51.366839].
+Sufixo Completo: 03-simples-composto-contamina-muito
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/contamina-muito.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/colhe-interv-diag.qry
+
+.[2023-07-11T22:14:52.083289].
+Sufixo Completo: 03-simples-composto-colhe-interv-diag
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/colhe-interv-diag.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/defensivo-colhe.qry
+
+.[2023-07-11T22:14:53.779097].
+Sufixo Completo: 03-simples-composto-defensivo-colhe
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/defensivo-colhe.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/contamina-colhe.qry
+
+.[2023-07-11T22:14:54.499070].
+Sufixo Completo: 03-simples-composto-contamina-colhe
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/contamina-colhe.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/aduba-muito.qry
+
+.[2023-07-11T22:14:55.189688].
+Sufixo Completo: 03-simples-composto-aduba-muito
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/aduba-muito.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/colhe-interv-vert.qry
+
+.[2023-07-11T22:14:55.894428].
+Sufixo Completo: 03-simples-composto-colhe-interv-vert
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/colhe-interv-vert.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/dados-move-elemts.qry
+
+.[2023-07-11T22:14:57.363338].
+Sufixo Completo: 03-simples-composto-dados-move-elemts
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/dados-move-elemts.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/dados-elemts.qry
+
+.[2023-07-11T22:14:57.396332].
+Sufixo Completo: 03-simples-composto-dados-elemts
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/dados-elemts.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/move-elemts.qry
+
+.[2023-07-11T22:14:57.428869].
+Sufixo Completo: 03-simples-composto-move-elemts
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/move-elemts.qry aberto com sucesso.
+>> /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/src/ted   -e /home/larissa-fonseca/workspace/starting-c/script2/t  -o /home/larissa-fonseca/workspace/starting-c/script2/alunos/larimsf/o -f 03-simples-composto.geo   -ns 32 -fd 75  -q 03-simples-composto/colhe-interv-horz.qry
+
+.[2023-07-11T22:14:57.466588].
+Sufixo Completo: 03-simples-composto-colhe-interv-horz
+Número de setores: 32 Fator de degradação: 75.000000
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto.geo aberto com sucesso.
+Arquivo /home/larissa-fonseca/workspace/starting-c/script2/t/03-simples-composto/colhe-interv-horz.qry aberto com sucesso.
+
+>>
+>> Arquivos SVG produzidos
+>>
+
+Numero de arquivos: 14
+ 03-simples-composto-aduba-colhe.svg 564544
+ 03-simples-composto-aduba-muito.svg 571336
+ 03-simples-composto-colhe-interv-diag.svg 550340
+ 03-simples-composto-colhe-interv-horz.svg 569887
+ 03-simples-composto-colhe-interv-vert.svg 556543
+ 03-simples-composto-colhe.svg. 563412
+ 03-simples-composto-contamina-colhe.svg 564532
+ 03-simples-composto-contamina-defensivo-colhe.svg 565670
+ 03-simples-composto-contamina-muito.svg 570096
+ 03-simples-composto-dados-elemts.svg 574312
+ 03-simples-composto-dados-move-elemts.svg 574314
+ 03-simples-composto-defensivo-colhe.svg 564550
+ 03-simples-composto-move-elemts.svg 574314
+ 03-simples-composto.svg....... 574312
+:::7938162
+
+
+>>
+>> Arquivos TXT produzidos
+>>
+
+Numero de arquivos: 14
+ 03-simples-composto-aduba-colhe.txt 28823
+ 03-simples-composto-aduba-muito.txt 165887
+ 03-simples-composto-colhe-interv-diag.txt 17506
+ 03-simples-composto-colhe-interv-horz.txt 15442
+ 03-simples-composto-colhe-interv-vert.txt 14824
+ 03-simples-composto-colhe.txt. 6490
+ 03-simples-composto-contamina-colhe.txt 16327
+ 03-simples-composto-contamina-defensivo-colhe.txt 38648
+ 03-simples-composto-contamina-muito.txt 27852
+ 03-simples-composto-dados-elemts.txt 570
+ 03-simples-composto-dados-move-elemts.txt 1659
+ 03-simples-composto-defensivo-colhe.txt 28811
+ 03-simples-composto-move-elemts.txt 517
+ 03-simples-composto.txt....... 63
+:::363419
+
+
+>>
+>> Arquivos SVG pequenos
+>>
+
+Arquivos reportados 0
+
+>>
+>> Arquivos TXT pequenos
+>>
+
+Arquivos reportados 0
+================================
+

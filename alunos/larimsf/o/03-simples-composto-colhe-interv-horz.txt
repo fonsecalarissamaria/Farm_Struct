@@ -1,0 +1,264 @@
+Moveu o Retângulo de identificador: 1 Posição original: 10.000000,50.000000 Posição final: 210.000000,200.000000
+Colheita:
+        Morango de id 1547 colhido
+        Contabilidade Parcial: Morango de id 1547: 20.000000 gramas
+        Morango de id 1546 colhido
+        Contabilidade Parcial: Morango de id 1546: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 230.000000,200.000000 moveu 4 passos para a direção o
+        Morango de id 1548 colhido
+        Contabilidade Parcial: Morango de id 1548: 20.000000 gramas
+        Morango de id 1549 colhido
+        Contabilidade Parcial: Morango de id 1549: 20.000000 gramas
+        Abóbora de id 2245 colhida
+        Contabilidade Parcial: Abobora de id 2245: 2000.000000 gramas
+        Abóbora de id 2145 colhida
+        Contabilidade Parcial: Abobora de id 2145: 2000.000000 gramas
+        Abóbora de id 2195 colhida
+        Contabilidade Parcial: Abobora de id 2195: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 250.000000,200.000000 moveu 4 passos para a direção o
+        Morango de id 1551 colhido
+        Contabilidade Parcial: Morango de id 1551: 20.000000 gramas
+        Morango de id 1550 colhido
+        Contabilidade Parcial: Morango de id 1550: 20.000000 gramas
+        Abóbora de id 2247 colhida
+        Contabilidade Parcial: Abobora de id 2247: 2000.000000 gramas
+        Abóbora de id 2147 colhida
+        Contabilidade Parcial: Abobora de id 2147: 2000.000000 gramas
+        Abóbora de id 2197 colhida
+        Contabilidade Parcial: Abobora de id 2197: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 270.000000,200.000000 moveu 4 passos para a direção o
+        Morango de id 1554 colhido
+        Contabilidade Parcial: Morango de id 1554: 20.000000 gramas
+        Morango de id 1552 colhido
+        Contabilidade Parcial: Morango de id 1552: 20.000000 gramas
+        Morango de id 1553 colhido
+        Contabilidade Parcial: Morango de id 1553: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 270.000000,200.000000 moveu 4 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 270.000000,200.000000 Posição final: 310.000000,200.000000
+Colheita:
+        Morango de id 1558 colhido
+        Contabilidade Parcial: Morango de id 1558: 20.000000 gramas
+        Morango de id 1557 colhido
+        Contabilidade Parcial: Morango de id 1557: 20.000000 gramas
+        Abóbora de id 2252 colhida
+        Contabilidade Parcial: Abobora de id 2252: 2000.000000 gramas
+        Abóbora de id 2152 colhida
+        Contabilidade Parcial: Abobora de id 2152: 2000.000000 gramas
+        Abóbora de id 2202 colhida
+        Contabilidade Parcial: Abobora de id 2202: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 330.000000,200.000000 moveu 4 passos para a direção o
+        Morango de id 1560 colhido
+        Contabilidade Parcial: Morango de id 1560: 20.000000 gramas
+        Morango de id 1559 colhido
+        Contabilidade Parcial: Morango de id 1559: 20.000000 gramas
+Colheitadeira de id 1 e posição inicial 350.000000,200.000000 moveu 4 passos para a direção o
+        Morango de id 1562 colhido
+        Contabilidade Parcial: Morango de id 1562: 20.000000 gramas
+        Morango de id 1561 colhido
+        Contabilidade Parcial: Morango de id 1561: 20.000000 gramas
+        Abóbora de id 2255 colhida
+        Contabilidade Parcial: Abobora de id 2255: 2000.000000 gramas
+        Abóbora de id 2155 colhida
+        Contabilidade Parcial: Abobora de id 2155: 2000.000000 gramas
+        Abóbora de id 2205 colhida
+        Contabilidade Parcial: Abobora de id 2205: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 370.000000,200.000000 moveu 4 passos para a direção o
+        Abóbora de id 2257 colhida
+        Contabilidade Parcial: Abobora de id 2257: 2000.000000 gramas
+        Abóbora de id 2157 colhida
+        Contabilidade Parcial: Abobora de id 2157: 2000.000000 gramas
+        Abóbora de id 2207 colhida
+        Contabilidade Parcial: Abobora de id 2207: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 370.000000,200.000000 moveu 4 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 370.000000,200.000000 Posição final: 410.000000,200.000000
+Colheita:
+        Abóbora de id 2260 colhida
+        Contabilidade Parcial: Abobora de id 2260: 2000.000000 gramas
+        Abóbora de id 2160 colhida
+        Contabilidade Parcial: Abobora de id 2160: 2000.000000 gramas
+        Abóbora de id 2210 colhida
+        Contabilidade Parcial: Abobora de id 2210: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 430.000000,200.000000 moveu 8 passos para a direção o
+        Abóbora de id 2262 colhida
+        Contabilidade Parcial: Abobora de id 2262: 2000.000000 gramas
+        Abóbora de id 2162 colhida
+        Contabilidade Parcial: Abobora de id 2162: 2000.000000 gramas
+        Abóbora de id 2212 colhida
+        Contabilidade Parcial: Abobora de id 2212: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 450.000000,200.000000 moveu 8 passos para a direção o
+Colheitadeira de id 1 e posição inicial 470.000000,200.000000 moveu 8 passos para a direção o
+        Abóbora de id 2265 colhida
+        Contabilidade Parcial: Abobora de id 2265: 2000.000000 gramas
+        Abóbora de id 2165 colhida
+        Contabilidade Parcial: Abobora de id 2165: 2000.000000 gramas
+        Abóbora de id 2215 colhida
+        Contabilidade Parcial: Abobora de id 2215: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 490.000000,200.000000 moveu 8 passos para a direção o
+        Abóbora de id 2267 colhida
+        Contabilidade Parcial: Abobora de id 2267: 2000.000000 gramas
+        Abóbora de id 2167 colhida
+        Contabilidade Parcial: Abobora de id 2167: 2000.000000 gramas
+        Abóbora de id 2217 colhida
+        Contabilidade Parcial: Abobora de id 2217: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 510.000000,200.000000 moveu 8 passos para a direção o
+Colheitadeira de id 1 e posição inicial 530.000000,200.000000 moveu 8 passos para a direção o
+        Abóbora de id 2270 colhida
+        Contabilidade Parcial: Abobora de id 2270: 2000.000000 gramas
+        Abóbora de id 2170 colhida
+        Contabilidade Parcial: Abobora de id 2170: 2000.000000 gramas
+        Abóbora de id 2220 colhida
+        Contabilidade Parcial: Abobora de id 2220: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 550.000000,200.000000 moveu 8 passos para a direção o
+        Abóbora de id 2272 colhida
+        Contabilidade Parcial: Abobora de id 2272: 2000.000000 gramas
+        Abóbora de id 2172 colhida
+        Contabilidade Parcial: Abobora de id 2172: 2000.000000 gramas
+        Abóbora de id 2222 colhida
+        Contabilidade Parcial: Abobora de id 2222: 2000.000000 gramas
+Colheitadeira de id 1 e posição inicial 550.000000,200.000000 moveu 8 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 550.000000,200.000000 Posição final: 610.000000,200.000000
+Colheita:
+        Repolho de id 2527 colhido
+        Contabilidade Parcial: Repolho de id 2527: 1000.000000 gramas
+        Repolho de id 2427 colhido
+        Contabilidade Parcial: Repolho de id 2427: 2000.000000 gramas
+        Repolho de id 2477 colhido
+        Contabilidade Parcial: Repolho de id 2477: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 630.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2529 colhido
+        Contabilidade Parcial: Repolho de id 2529: 1000.000000 gramas
+        Repolho de id 2429 colhido
+        Contabilidade Parcial: Repolho de id 2429: 1000.000000 gramas
+        Repolho de id 2479 colhido
+        Contabilidade Parcial: Repolho de id 2479: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 650.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2531 colhido
+        Contabilidade Parcial: Repolho de id 2531: 1000.000000 gramas
+        Repolho de id 2530 colhido
+        Contabilidade Parcial: Repolho de id 2530: 1000.000000 gramas
+        Repolho de id 2430 colhido
+        Contabilidade Parcial: Repolho de id 2430: 1000.000000 gramas
+        Repolho de id 2431 colhido
+        Contabilidade Parcial: Repolho de id 2431: 1000.000000 gramas
+        Repolho de id 2481 colhido
+        Contabilidade Parcial: Repolho de id 2481: 1000.000000 gramas
+        Repolho de id 2480 colhido
+        Contabilidade Parcial: Repolho de id 2480: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 670.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2532 colhido
+        Contabilidade Parcial: Repolho de id 2532: 1000.000000 gramas
+        Repolho de id 2482 colhido
+        Contabilidade Parcial: Repolho de id 2482: 1000.000000 gramas
+        Repolho de id 2432 colhido
+        Contabilidade Parcial: Repolho de id 2432: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 690.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2484 colhido
+        Contabilidade Parcial: Repolho de id 2484: 1000.000000 gramas
+        Repolho de id 2534 colhido
+        Contabilidade Parcial: Repolho de id 2534: 1000.000000 gramas
+        Repolho de id 2434 colhido
+        Contabilidade Parcial: Repolho de id 2434: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 710.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2536 colhido
+        Contabilidade Parcial: Repolho de id 2536: 1000.000000 gramas
+        Repolho de id 2535 colhido
+        Contabilidade Parcial: Repolho de id 2535: 1000.000000 gramas
+        Repolho de id 2435 colhido
+        Contabilidade Parcial: Repolho de id 2435: 1000.000000 gramas
+        Repolho de id 2436 colhido
+        Contabilidade Parcial: Repolho de id 2436: 1000.000000 gramas
+        Repolho de id 2485 colhido
+        Contabilidade Parcial: Repolho de id 2485: 1000.000000 gramas
+        Repolho de id 2486 colhido
+        Contabilidade Parcial: Repolho de id 2486: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 730.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2537 colhido
+        Contabilidade Parcial: Repolho de id 2537: 1000.000000 gramas
+        Repolho de id 2437 colhido
+        Contabilidade Parcial: Repolho de id 2437: 1000.000000 gramas
+        Repolho de id 2487 colhido
+        Contabilidade Parcial: Repolho de id 2487: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 750.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2439 colhido
+        Contabilidade Parcial: Repolho de id 2439: 1000.000000 gramas
+        Repolho de id 2539 colhido
+        Contabilidade Parcial: Repolho de id 2539: 1000.000000 gramas
+        Repolho de id 2489 colhido
+        Contabilidade Parcial: Repolho de id 2489: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 750.000000,200.000000 moveu 8 passos para a direção o
+Moveu o Retângulo de identificador: 1 Posição original: 750.000000,200.000000 Posição final: 830.000000,200.000000
+Colheita:
+        Repolho de id 2445 colhido
+        Contabilidade Parcial: Repolho de id 2445: 1000.000000 gramas
+        Repolho de id 2545 colhido
+        Contabilidade Parcial: Repolho de id 2545: 1000.000000 gramas
+        Repolho de id 2446 colhido
+        Contabilidade Parcial: Repolho de id 2446: 1000.000000 gramas
+        Repolho de id 2546 colhido
+        Contabilidade Parcial: Repolho de id 2546: 1000.000000 gramas
+        Repolho de id 2495 colhido
+        Contabilidade Parcial: Repolho de id 2495: 1000.000000 gramas
+        Repolho de id 2496 colhido
+        Contabilidade Parcial: Repolho de id 2496: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 850.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2447 colhido
+        Contabilidade Parcial: Repolho de id 2447: 1000.000000 gramas
+        Repolho de id 2547 colhido
+        Contabilidade Parcial: Repolho de id 2547: 1000.000000 gramas
+        Repolho de id 2497 colhido
+        Contabilidade Parcial: Repolho de id 2497: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 870.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2449 colhido
+        Contabilidade Parcial: Repolho de id 2449: 1000.000000 gramas
+        Repolho de id 2549 colhido
+        Contabilidade Parcial: Repolho de id 2549: 1000.000000 gramas
+        Repolho de id 2499 colhido
+        Contabilidade Parcial: Repolho de id 2499: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 890.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2450 colhido
+        Contabilidade Parcial: Repolho de id 2450: 1000.000000 gramas
+        Repolho de id 2550 colhido
+        Contabilidade Parcial: Repolho de id 2550: 1000.000000 gramas
+        Repolho de id 2451 colhido
+        Contabilidade Parcial: Repolho de id 2451: 1000.000000 gramas
+        Repolho de id 2551 colhido
+        Contabilidade Parcial: Repolho de id 2551: 1000.000000 gramas
+        Repolho de id 2500 colhido
+        Contabilidade Parcial: Repolho de id 2500: 1000.000000 gramas
+        Repolho de id 2501 colhido
+        Contabilidade Parcial: Repolho de id 2501: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 910.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2452 colhido
+        Contabilidade Parcial: Repolho de id 2452: 1000.000000 gramas
+        Repolho de id 2552 colhido
+        Contabilidade Parcial: Repolho de id 2552: 1000.000000 gramas
+        Repolho de id 2502 colhido
+        Contabilidade Parcial: Repolho de id 2502: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 930.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2454 colhido
+        Contabilidade Parcial: Repolho de id 2454: 1000.000000 gramas
+        Repolho de id 2554 colhido
+        Contabilidade Parcial: Repolho de id 2554: 1000.000000 gramas
+        Repolho de id 2504 colhido
+        Contabilidade Parcial: Repolho de id 2504: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 950.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2455 colhido
+        Contabilidade Parcial: Repolho de id 2455: 1000.000000 gramas
+        Repolho de id 2555 colhido
+        Contabilidade Parcial: Repolho de id 2555: 1000.000000 gramas
+        Repolho de id 2456 colhido
+        Contabilidade Parcial: Repolho de id 2456: 1000.000000 gramas
+        Repolho de id 2556 colhido
+        Contabilidade Parcial: Repolho de id 2556: 1000.000000 gramas
+        Repolho de id 2505 colhido
+        Contabilidade Parcial: Repolho de id 2505: 1000.000000 gramas
+        Repolho de id 2506 colhido
+        Contabilidade Parcial: Repolho de id 2506: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 970.000000,200.000000 moveu 8 passos para a direção o
+        Repolho de id 2457 colhido
+        Contabilidade Parcial: Repolho de id 2457: 1000.000000 gramas
+        Repolho de id 2557 colhido
+        Contabilidade Parcial: Repolho de id 2557: 1000.000000 gramas
+        Repolho de id 2507 colhido
+        Contabilidade Parcial: Repolho de id 2507: 1000.000000 gramas
+Colheitadeira de id 1 e posição inicial 970.000000,200.000000 moveu 8 passos para a direção o

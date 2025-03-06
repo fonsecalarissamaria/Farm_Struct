@@ -1,0 +1,36 @@
+Reportando dados de hortaliças:
+        Dados da hortaliça 2230:
+                Tipo: Abobora
+                Peso: 2000.000000
+                Posição: 58.000000,240.800000
+Reportando dados de hortaliças:
+        Dados da hortaliça 2691:
+                Tipo: Repolho
+                Peso: 1000.000000
+                Posição: 782.200000,276.800000
+Reportando dados de hortaliças:
+Reportando dados de hortaliças:
+        Dados da hortaliça 1340:
+                Tipo: Morango
+                Peso: 20.000000
+                Posição: 163.000000,161.000000
+Moveu o Circulo de identificador: 2230 Posição original: 58.000000,240.800000 Posição final: 398.750000,344.160000
+Moveu o Retângulo de identificador: 2691 Posição original: 782.200000,276.800000 Posição final: 1122.950000,380.160000
+Moveu a Linha de identificador: 3044 Posição original da primeira ancora: 172.154968,315.076882 Posição final da primeira ancora: 512.904968,418.436882
+Moveu o Texto de identificador: 1340 Posição original: 163.000000,161.000000 Posição final: 503.750000,264.360000
+Reportando dados de hortaliças:
+        Dados da hortaliça 2230:
+                Tipo: Abobora
+                Peso: 2000.000000
+                Posição: 398.750000,344.160000
+Reportando dados de hortaliças:
+        Dados da hortaliça 2691:
+                Tipo: Repolho
+                Peso: 1000.000000
+                Posição: 1122.950000,380.160000
+Reportando dados de hortaliças:
+Reportando dados de hortaliças:
+        Dados da hortaliça 1340:
+                Tipo: Morango
+                Peso: 20.000000
+                Posição: 503.750000,264.360000
